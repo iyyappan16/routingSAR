@@ -179,7 +179,7 @@ var drop;
       //  event.preventDefault();
         $('#sec1').css("display","none");
 		$.ajax({
-		url:'https://xlm5qc13z7.execute-api.us-east-2.amazonaws.com/Prod/routing',
+		url:'',  //https://xdere345g.dsfs34-api.us-east-2.amazonaws.com/Prod/routing
 		  type: 'GET',
 		  dataType: 'jsonp',
 		  jsonp: 'jsoncallback',
