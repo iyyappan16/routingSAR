@@ -1,2 +1,2 @@
-# routingSAR
-SAR routing function deployment with route A to B functionalities
+# HERE Routing API
+Routing API helps to get the route between A to B
